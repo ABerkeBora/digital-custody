@@ -57,14 +57,8 @@ TOTAL USD Value (ETH + Tokens): $10,543.35
 
 ---
 
-## 💡 Notes
+## Notes
 
 - Swap detection is based on method signatures (`swapExactTokensForTokens`, etc.)
 - Token USD prices are fetched from CoinMarketCap (by symbol)
 - Supports up to 10,000 transactions and token transfers per run
-
----
-
-## 📧 Submission
-
-Submitted as part of the Hauck Aufhäuser coding challenge for TUM Blockchain Club.
